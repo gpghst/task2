@@ -1,4 +1,4 @@
-_Логотип_:
+# NeuroStartUp
 
 ![](./logo.png)
 
